@@ -1,0 +1,12 @@
+D:\Univer\OOP\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.exe.config
+D:\Univer\OOP\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.exe
+D:\Univer\OOP\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.pdb
+D:\Univer\OOP\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.csprojAssemblyReference.cache
+D:\Univer\OOP\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.exe
+D:\Univer\OOP\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.pdb
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.exe.config
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.exe
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\bin\Debug\ConsoleTask.pdb
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.csprojAssemblyReference.cache
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.exe
+D:\Univer\OOP\Labs\LabDelegates\ConsoleTask\obj\Debug\ConsoleTask.pdb

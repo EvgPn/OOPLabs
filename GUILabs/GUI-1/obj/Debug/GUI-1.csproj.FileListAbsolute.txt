@@ -1,0 +1,11 @@
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\bin\Debug\GUI-1.exe.config
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\bin\Debug\GUI-1.exe
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\bin\Debug\GUI-1.pdb
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI-1.csprojAssemblyReference.cache
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI_1.Properties.Resources.resources
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI-1.csproj.GenerateResource.cache
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI-1.exe
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI-1.pdb
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI_1.Exercise1.resources
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI_1.Exercise2.resources
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1\obj\Debug\GUI_1.nForm.resources

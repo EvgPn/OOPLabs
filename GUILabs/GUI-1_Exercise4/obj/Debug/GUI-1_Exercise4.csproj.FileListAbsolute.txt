@@ -1,0 +1,10 @@
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\bin\Debug\GUI-1_Exercise4.exe.config
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\bin\Debug\GUI-1_Exercise4.exe
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\bin\Debug\GUI-1_Exercise4.pdb
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI-1_Exercise4.csprojAssemblyReference.cache
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI_1_Exercise4.ParentForm.resources
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI_1_Exercise4.Properties.Resources.resources
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI-1_Exercise4.csproj.GenerateResource.cache
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI-1_Exercise4.exe
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI-1_Exercise4.pdb
+D:\Univer\OOP\OOPLabs\GUILabs\GUI-1_Exercise4\obj\Debug\GUI_1_Exercise4.ChildForm.resources

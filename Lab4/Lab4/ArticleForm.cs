@@ -13,7 +13,7 @@ namespace Lab4
 		{
 			InitializeComponent();
 			_article = article;
-			EditButton.Enabled = false;			
+			EditButton.Enabled = false;
 
 			_authors = Author.ReadAuthorsList("authors");
 			_authors.ForEach(author =>
@@ -28,7 +28,7 @@ namespace Lab4
 				PagesNumText.Text = article.PagesNum.ToString();
 				FeeText.Text = article.Fee.ToString();
 			}
-			
+
 		}
 
 		private void NewButton_Click(object sender, EventArgs e)
@@ -89,7 +89,7 @@ namespace Lab4
 
 		private void ListOfJournals_SelectedIndexChanged(object sender, EventArgs e)
 		{
-			EditButton.Enabled = true;					
+			EditButton.Enabled = true;
 		}
 
 		private void ArticleInfo_FormClosing(object sender, FormClosingEventArgs e)

@@ -1,0 +1,18 @@
+﻿<Journals>
+  <Journal>
+    <JournalName>journal name</JournalName>
+    <Periodicity>Monthly</Periodicity>
+    <Articles>
+      <Article>
+        <Author>
+          <Name>mikola</Name>
+          <Surname>jukovich</Surname>
+          <Birthday>31.05.2020 17:12:10</Birthday>
+        </Author>
+        <ArticleName>article name</ArticleName>
+        <PagesNum>20</PagesNum>
+        <Fee>1000</Fee>
+      </Article>
+    </Articles>
+  </Journal>
+</Journals>
